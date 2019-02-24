@@ -11,7 +11,7 @@ The script acomplishes the following goals:
 * imputing missing and erroneous values present in the original data files; 
 * introducing some new features;
 * creating an [XGBoost](https://xgboost.readthedocs.io/en/latest/#) model for making the survival status predictions;
-* generating a csv submission file to be submitted on the [competition web site](https://www.kaggle.com/c/titanic).
+* generating a CSV submission file to be submitted on the [competition web site](https://www.kaggle.com/c/titanic).
 
 The leaderboard (LB) score that you can reach with this script is **0.80382**.
 
