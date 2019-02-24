@@ -13,9 +13,9 @@ The script acomplishes the following goals:
 * creating an [XGBoost](https://xgboost.readthedocs.io/en/latest/#) model for making the survival status predictions;
 * generating a CSV submission file to be submitted on the [competition web site](https://www.kaggle.com/c/titanic).
 
-The leaderboard (LB) score that you can reach with this script is **0.80382**.
+[My public kernel](https://www.kaggle.com/graf10a/alexey-pronin-xgboost-with-caret) on Kaggle based on this script has a leaderboard (LB) score of **0.80382**.
 
 The repository contains the following files:
 
-1. 'Titanic_caret_xgb_80382.R' -- the R script file.
+1. 'Titanic.R' -- the R script file.
 2. 'README.md' -- this file.
